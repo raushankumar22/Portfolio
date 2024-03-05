@@ -1,0 +1,48 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-image: url("https://www.reversinglabs.com/hs-fs/hubfs/Blog/Blog-Malware-leveraging-public-infrastructure-like-GitHub-on-the-rise.webp?width=1400&height=732&name=Blog-Malware-leveraging-public-infrastructure-like-GitHub-on-the-rise.webp");
+	color: white;
+}
+
+header {
+	background-color: rgb(78, 71, 71);
+	padding: 20px;
+	text-align: center;
+}
+
+header h1 {
+	margin: 0;
+}
+
+header h2 {
+	color: #666;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+section h3 {
+	margin-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+footer {
+	background-color: #f4f4f4;
+	padding: 20px;
+	text-align: center;
+}
